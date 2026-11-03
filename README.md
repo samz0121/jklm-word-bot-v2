@@ -1,4 +1,4 @@
-# JKLM NO FUN
+# JKLM WORD BOT V2
 
 **Python based script that gives you an unfair advantage in jklm.fun's bomb party.**
 
